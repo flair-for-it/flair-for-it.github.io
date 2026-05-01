@@ -1,4 +1,5 @@
-# flair-for-it.github.io
-Flair for IT Ltd (NZ) - Main Website
+Flair for IT Ltd (NZ)
 
-Under development!
+Our main website is being improved!
+
+In the meantime, please contact us at **admin@flairforit.nz**.
